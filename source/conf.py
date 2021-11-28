@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'lab_doc'
-copyright = '2021, szu'
-author = 'szu'
+project = 'LitChi RISCV Lab'
+copyright = '2021, 深圳大学蔡晔实验组'
+author = 'CaiYe lab team of szu'
 
 # The short X.Y version
 version = ''
